@@ -1,0 +1,2 @@
+
+ 2023-09-09 01:33:04: Directory created: /Users/jordanharris/Code/PycharmProjects/veeam_synch_test/replica/one_file.txt

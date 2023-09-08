@@ -34,10 +34,6 @@ def logger(event, source_path, replica_path, log_path):
 
 
 def synch_folders(source_path, replica_path, interval, log_file):
-    md5_hash = hashlib.md5()
-
-
-
     while True:
         try:
             timestamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
@@ -65,8 +61,9 @@ def synch_folders(source_path, replica_path, interval, log_file):
                     replica_file_path = os.path.join(replica_path, s_file)
                     shutil.copy2(source_file_path, replica_file_path)
 
-                    log_message = f"Copied: {source_file_path} -> {replica_file_path}"
-                    print(log_message)
+                    logger('copy', source_file_path, replica_file_path, log_file)
+                    # log_message = f"Copied: {source_file_path} -> {replica_file_path}"
+                    # print(log_message)
 
             time.sleep(interval)
 
