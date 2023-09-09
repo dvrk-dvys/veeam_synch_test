@@ -1,2 +1,19 @@
 
- 2023-09-09 01:33:04: Directory created: /Users/jordanharris/Code/PycharmProjects/veeam_synch_test/replica/one_file.txt
+ 2023-09-09 13:18:05: File copied: /Users/jordanharris/Code/PycharmProjects/veeam_synch_test/source/one_file.txt -> /Users/jordanharris/Code/PycharmProjects/veeam_synch_test/replica/one_file.txt
+ 2023-09-09 13:20:45: File copied: /Users/jordanharris/Code/PycharmProjects/veeam_synch_test/source/new_file.txt -> /Users/jordanharris/Code/PycharmProjects/veeam_synch_test/replica/new_file.txt
+ 2023-09-09 13:20:45: File copied: /Users/jordanharris/Code/PycharmProjects/veeam_synch_test/source/old_file.txt -> /Users/jordanharris/Code/PycharmProjects/veeam_synch_test/replica/old_file.txt
+ 2023-09-09 13:20:45: File copied: /Users/jordanharris/Code/PycharmProjects/veeam_synch_test/source/two_file.txt -> /Users/jordanharris/Code/PycharmProjects/veeam_synch_test/replica/two_file.txt
+ 2023-09-09 13:20:45: File copied: /Users/jordanharris/Code/PycharmProjects/veeam_synch_test/source/one_file.txt -> /Users/jordanharris/Code/PycharmProjects/veeam_synch_test/replica/one_file.txt
+ 2023-09-09 13:22:15: File copied: /Users/jordanharris/Code/PycharmProjects/veeam_synch_test/source/new_file.txt -> /Users/jordanharris/Code/PycharmProjects/veeam_synch_test/replica/new_file.txt
+ 2023-09-09 13:22:15: File copied: /Users/jordanharris/Code/PycharmProjects/veeam_synch_test/source/old_file.txt -> /Users/jordanharris/Code/PycharmProjects/veeam_synch_test/replica/old_file.txt
+ 2023-09-09 13:25:28: File removed: 
+ 2023-09-09 13:27:30: File removed: /Users/jordanharris/Code/PycharmProjects/veeam_synch_test/replica/test.txt
+ 2023-09-09 13:28:15: File copied: /Users/jordanharris/Code/PycharmProjects/veeam_synch_test/source/three_file.text -> /Users/jordanharris/Code/PycharmProjects/veeam_synch_test/replica/three_file.text
+ 2023-09-09 13:29:15: File copied: /Users/jordanharris/Code/PycharmProjects/veeam_synch_test/source/new.txt -> /Users/jordanharris/Code/PycharmProjects/veeam_synch_test/replica/new.txt
+ 2023-09-09 13:30:00: File removed: /Users/jordanharris/Code/PycharmProjects/veeam_synch_test/replica/three_file.text
+ 2023-09-09 13:30:45: File removed: /Users/jordanharris/Code/PycharmProjects/veeam_synch_test/replica/new.txt
+ 2023-09-09 13:35:58: Directory created: /Users/jordanharris/Code/PycharmProjects/veeam_synch_test/replica
+ 2023-09-09 13:35:58: File copied: /Users/jordanharris/Code/PycharmProjects/veeam_synch_test/source/new_file.txt -> /Users/jordanharris/Code/PycharmProjects/veeam_synch_test/replica/new_file.txt
+ 2023-09-09 13:35:58: File copied: /Users/jordanharris/Code/PycharmProjects/veeam_synch_test/source/old_file.txt -> /Users/jordanharris/Code/PycharmProjects/veeam_synch_test/replica/old_file.txt
+ 2023-09-09 13:35:58: File copied: /Users/jordanharris/Code/PycharmProjects/veeam_synch_test/source/two_file.txt -> /Users/jordanharris/Code/PycharmProjects/veeam_synch_test/replica/two_file.txt
+ 2023-09-09 13:35:58: File copied: /Users/jordanharris/Code/PycharmProjects/veeam_synch_test/source/one_file.txt -> /Users/jordanharris/Code/PycharmProjects/veeam_synch_test/replica/one_file.txt
